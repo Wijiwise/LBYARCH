@@ -1,4 +1,4 @@
-# x86-to-C interface programming project (LBYARCH - S30G)
+# x86-to-C interface programming project (S30G)
 
 ## Group 3 members
 
@@ -32,8 +32,8 @@
 ### Usage Walkthrough
 1. Enter the image dimensions (`height` and `width`, e.g., `3 4`).
 2. Select the input mode:
-   * `1` — Manually enter `height * width` double-precision pixel values in $[0.0, 1.0]$.
-   * `2` — Automatically generate random pixel values in $[0.0, 1.0]$.
+   * `1` — Manually enter `height * width` double-precision pixel values.
+   * `2` — Automatically generate random pixel values.
 3. After displaying the converted integer matrix, single-run execution time, and correctness result, the program automatically runs the required 30-iteration benchmarks for $10 \times 10$, $100 \times 100$, and $1000 \times 1000$ images.
 
 ## Execution Time & Performance Analysis
