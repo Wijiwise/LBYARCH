@@ -2,8 +2,8 @@
 
 ## Group 3 members
 
-* **Member 1:** Carlos, Luis Guiller Alberto
-* **Member 2:** Esparas, Jayhan Charlizze
+* Carlos, Luis Guiller Alberto
+* Esparas, Jayhan Charlizze
 
 ## How to Compile and Run
 
