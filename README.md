@@ -53,9 +53,7 @@
 
 ## Program Output & Correctness Check Screenshot
 
-> Replace the placeholder below with a screenshot of your terminal showing manual/random conversion output, `PASS` on all correctness checks, and the 30-run benchmark table.
-
-![Program Output and Correctness Check](screenshot.png)
+<img width="1522" height="746" alt="image" src="https://github.com/user-attachments/assets/4daa3f74-519b-46e4-bbb8-ffdc994ee533" />
 
 ## Demo Video (5–10 Minutes)
 
