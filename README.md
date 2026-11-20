@@ -43,8 +43,8 @@
 | Image Dimensions ($H \times W$) | Total Pixels | Number of Runs | Average Execution Time (ms) | Correctness Check |
 | :------------------------------ | :----------: | :------------: | :-------------------------: | :---------------: |
 | $10 \times 10$                  |    $100$     |      $30$      |        0.000063 ms          |       PASS        |
-| $100 \times 100$                |   $10,000$   |      $30$      |        0.007207 ms          |       PASS        |
-| $1000 \times 1000$              | $1,000,000$  |      $30$      |        0.809773 ms          |       PASS        |
+| $100 \times 100$                |   $10,000$   |      $30$      |        0.006520 ms          |       PASS        |
+| $1000 \times 1000$              | $1,000,000$  |      $30$      |        0.771430 ms          |       PASS        |
 
 ### Short Performance Analysis
 * `[Discuss how average execution time scales as pixel count increases by 100x from 10x10 to 100x100 and 1000x1000.]`
