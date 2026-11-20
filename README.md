@@ -42,7 +42,7 @@
 
 | Image Dimensions ($H \times W$) | Total Pixels | Number of Runs | Average Execution Time (ms) | Correctness Check |
 | :------------------------------ | :----------: | :------------: | :-------------------------: | :---------------: |
-| $10 \times 10$                  |    $100$     |      $30$      |        0.000063 ms          |       PASS        |
+| $10 \times 10$                  |    $100$     |      $30$      |        0.000073 ms          |       PASS        |
 | $100 \times 100$                |   $10,000$   |      $30$      |        0.006520 ms          |       PASS        |
 | $1000 \times 1000$              | $1,000,000$  |      $30$      |        0.771430 ms          |       PASS        |
 
